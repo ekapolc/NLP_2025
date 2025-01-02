@@ -13,4 +13,4 @@
 
 ## HWs
 
-* HW1.1: Dictionary_based_Tokenization  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/HW1_1_Dictionary_based_Tokenization_to_Student_2024.ipynb)
+* HW1.1: Dictionary_based_Tokenization (answer your questions in MCV)  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/HW1_1_Dictionary_based_Tokenization_to_Student_2024.ipynb)
