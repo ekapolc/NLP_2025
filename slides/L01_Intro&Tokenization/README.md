@@ -5,4 +5,4 @@
 * [Slide1.3: NN-Based Tokenization (draft)](https://docs.google.com/presentation/d/11LxwHD6uiX1xRecalGhldgRA9I6-16ReFPm5LQfKt00/edit?usp=sharing)
 
 
-* Demo1_Rule_based_Classifier  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/code/codes/L01_Intro&Tokenization/Demo1_Rule_based_Classifier.ipynb)
+* Demo1_Rule_based_Classifier  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/Demo1_Rule_based_Classifier.ipynb)
