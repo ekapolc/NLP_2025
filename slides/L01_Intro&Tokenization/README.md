@@ -2,7 +2,7 @@
 
 ## Slides
 
-* [Slide1.1: Introduction to NLP](L01_Intro&Tokenization/L1.1_Intro_2024.pdf)
+* [Slide1.1: Introduction to NLP](L1.1_Intro_2024.pdf)
 * [Slide1.2: Dictionary-Based Tokenization](https://docs.google.com/presentation/d/1uaA74-GvxHn2lT-xWArYra-lGCCbnNm_y1Yj_wfBQsg/edit?usp=sharing)
 * [Slide1.3: NN-Based Tokenization (draft)](https://docs.google.com/presentation/d/11LxwHD6uiX1xRecalGhldgRA9I6-16ReFPm5LQfKt00/edit?usp=sharing)
 
