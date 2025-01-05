@@ -4,6 +4,7 @@
 
 * [Slide1.1: Introduction to NLP](L1.1_Intro_2024.pdf)
 * [Slide1.2: Dictionary-Based Tokenization](L1.2_Tokenization_2024.pdf)
+* [Slide1.3: Deep Tokenization](L1.3_Deep_Tokenization_2024.pdf)
 
 ## Demo codes
 
