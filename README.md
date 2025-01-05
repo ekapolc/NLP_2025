@@ -6,5 +6,5 @@ The course will give an overview of the Natural Language Processing techniques i
 
 # Course Syllabus
 
-[Here]()
+[Here](https://docs.google.com/document/d/1MOhzLCb1vQvqUfPrlPkFPehTqA-ptvRL/edit?usp=sharing&ouid=117491583517041967973&rtpof=true&sd=true)
 
