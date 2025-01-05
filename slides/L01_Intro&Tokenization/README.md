@@ -8,8 +8,8 @@
 
 ## Demo codes
 
-* Demo1_Rule_based_Classifier  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/Demo1_Rule_based_Classifier.ipynb)
-* Demo2_BOW_Classifier.ipynb  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/Demo2_BOW_Classifier.ipynb)
+* Demo1_Rule_based_Classifier  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/Demo1_1_Rule_based_Classifier.ipynb)
+* Demo2_BOW_Classifier.ipynb  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L01_Intro&Tokenization/Demo1_2_BOW_Classifier.ipynb)
 
 ## HWs
 
