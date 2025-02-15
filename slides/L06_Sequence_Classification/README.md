@@ -6,7 +6,7 @@
 
 ## Demo codes
 
-* Demo6.1_NNER  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L06_Sequence_Classification/NaiveBayesClassificationDemo.ipynb)
+* Demo6.1_Naive_Bayes  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L06_Sequence_Classification/NaiveBayesClassificationDemo.ipynb)
 
 ## HWs
 
