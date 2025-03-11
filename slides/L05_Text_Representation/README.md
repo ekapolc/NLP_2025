@@ -11,4 +11,4 @@
 
 ## HWs
 
-* HW5: PoS with WangchanBERTa  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L05_Sentence_Representation/HW5_NLP_sentence_contrastive_learning_for_student.ipynb)
+* HW5: SimCSE with WangchanBERTa  [![Open In Colab](https://raw.githubusercontent.com/ekapolc/NLP_2025/main/codes/colab-badge.svg)](https://colab.research.google.com/github/ekapolc/NLP_2025/blob/main/codes/L05_Sentence_Representation/HW5_NLP_sentence_contrastive_learning_for_student.ipynb)
