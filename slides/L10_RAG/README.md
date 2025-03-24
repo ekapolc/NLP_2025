@@ -1,8 +1,9 @@
-# Lecture10: RAG
+# Lecture10: Test-time compute, knowledge updates, and RAG
 
 ## Slides
 
-* [Slide10: RAG](L10_RAG.pdf)
+* [Slide10.1: RAG](L10.1_TTC_knowledgeupdates.pdf)
+* [Slide10.2: RAG](L10.2_RAG.pdf)
 
 
 ## Demo codes
