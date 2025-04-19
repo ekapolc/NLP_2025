@@ -1,6 +1,8 @@
 
 # Lecture11: Deployment
 
+Today we have a guest lecture by Matichon Maneegard from [Float16](https://float16.cloud/)
+
 ## Slides
 
 * [Slide11 [guest]: Post-training (Deployment techniques)](L11guest_Matichon_Float16_LLM_post_training.pdf)
