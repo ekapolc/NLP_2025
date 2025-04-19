@@ -3,6 +3,7 @@
 
 ## Slides
 
+* [Slide11 [guest]: Post-training (Deployment techniques)](L11guest_Matichon_Float16_LLM_post_training.pdf)
 * [Slide11: TensorRT-LLM](L11_TensorRT-LLM.pdf)
 
 ## Demo codes
