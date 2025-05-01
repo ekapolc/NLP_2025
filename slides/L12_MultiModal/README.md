@@ -1,4 +1,4 @@
-L12 Multimodal LLMs
+# L12 Multimodal LLMs
 
 Guest: Soravit “Beer” Changpinyo
 
